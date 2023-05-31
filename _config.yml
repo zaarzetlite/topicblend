@@ -33,6 +33,7 @@ github_username:  jekyll
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - minimal-mistakes-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default.
